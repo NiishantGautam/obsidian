@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: My Obsidian Notes
 ---
 
-Hello world!
-
-Write some words here!
+Here, I share my thoughts, experiences, and insights on a variety of topics. I hope you find the content engaging and insightful. Enjoy reading!
